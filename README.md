@@ -2,7 +2,7 @@
 
 # m1rua
 
-### experienced coder
+### DevOps enjoyer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,git,bash,docker,kubernetes,githubactions,terraform,ansible,grafana,prometheus&theme=dark" />
