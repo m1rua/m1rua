@@ -8,6 +8,5 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,git,bash,docker,kubernetes,githubactions,terraform,ansible,grafana,prometheus&theme=dark" />
 </p>
 
-<img src="https://raw.githubusercontent.com/m1rua/m1rua/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
+<img src="https://ghchart.rshah.org/4092FF/m1rua" alt="chart" />
 </div>
